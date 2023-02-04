@@ -25,20 +25,20 @@ IS_SUCCESSFUL—Was the money used effectively
 
 #### Target Variables and Features
 
-![Data Preprocessing Target Image1](https://user-images.githubusercontent.com/112135658/216776356-c4f48143-d911-4e48-ab56-3b82f14198d5.jpg)
+#### ![Data Preprocessing Target Image1](https://user-images.githubusercontent.com/112135658/216776356-c4f48143-d911-4e48-ab56-3b82f14198d5.jpg)
 
 #### Cleaned Variables and Features
 
-![Data Preprocessing Removed Targets and Features Image2](https://user-images.githubusercontent.com/112135658/216776438-a5dbcd2e-6381-4b3f-b9c1-54128e6c2ab8.jpg)
+#### ![Data Preprocessing Removed Targets and Features Image2](https://user-images.githubusercontent.com/112135658/216776438-a5dbcd2e-6381-4b3f-b9c1-54128e6c2ab8.jpg)
 
 #### ![Data Preprocessing Visualization Image 3](https://user-images.githubusercontent.com/112135658/216776940-329612da-6674-476e-9786-25c2a94ec156.jpg)
       
-     ![Data Preprocessing Visualization Image 3](https://user-images.githubusercontent.com/112135658/216776958-15399f23-8de9-46c2-9f5a-be4334b18033.jpg)
-     ![Data Preprocessing Image 5](https://user-images.githubusercontent.com/112135658/216776981-29de4451-9a7f-4c7a-b663-bca360583f36.jpg)
+#### ![Data Preprocessing Visualization Image 3](https://user-images.githubusercontent.com/112135658/216776958-15399f23-8de9-46c2-9f5a-be4334b18033.jpg)
+#### ![Data Preprocessing Image 5](https://user-images.githubusercontent.com/112135658/216776981-29de4451-9a7f-4c7a-b663-bca360583f36.jpg)
       
-     ![Data Preprocessing Image 4](https://user-images.githubusercontent.com/112135658/216777041-09cac385-2423-41b4-9396-1d60a8f791b7.jpg)
-     ![Data Preprocessing Image 5](https://user-images.githubusercontent.com/112135658/216777053-5b706596-797d-44e6-8d15-f1cba6519286.jpg)
-     ![Neurons_layers_activation functions selected Image 6](https://user-images.githubusercontent.com/112135658/216777083-29780246-7af3-430d-8187-a39cf990b633.jpg)
+#### ![Data Preprocessing Image 4](https://user-images.githubusercontent.com/112135658/216777041-09cac385-2423-41b4-9396-1d60a8f791b7.jpg)
+#### ![Data Preprocessing Image 5](https://user-images.githubusercontent.com/112135658/216777053-5b706596-797d-44e6-8d15-f1cba6519286.jpg)
+#### ![Neurons_layers_activation functions selected Image 6](https://user-images.githubusercontent.com/112135658/216777083-29780246-7af3-430d-8187-a39cf990b633.jpg)
 
 #### Increasing Model Performance
 
