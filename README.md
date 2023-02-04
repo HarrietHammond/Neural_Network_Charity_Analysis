@@ -26,3 +26,7 @@ IS_SUCCESSFUL—Was the money used effectively
 #### Target Variables and Features
 
 ![Data Preprocessing Target Image1](https://user-images.githubusercontent.com/112135658/216776356-c4f48143-d911-4e48-ab56-3b82f14198d5.jpg)
+
+#### Cleaned Variables and Features
+
+![Data Preprocessing Removed Targets and Features Image2](https://user-images.githubusercontent.com/112135658/216776438-a5dbcd2e-6381-4b3f-b9c1-54128e6c2ab8.jpg)
