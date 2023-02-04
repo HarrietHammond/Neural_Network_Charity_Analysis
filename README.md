@@ -36,6 +36,9 @@ IS_SUCCESSFUL—Was the money used effectively
      ![Data Preprocessing Visualization Image 3](https://user-images.githubusercontent.com/112135658/216776958-15399f23-8de9-46c2-9f5a-be4334b18033.jpg)
      ![Data Preprocessing Image 5](https://user-images.githubusercontent.com/112135658/216776981-29de4451-9a7f-4c7a-b663-bca360583f36.jpg)
       
+     ![Data Preprocessing Image 4](https://user-images.githubusercontent.com/112135658/216777041-09cac385-2423-41b4-9396-1d60a8f791b7.jpg)
+     ![Data Preprocessing Image 5](https://user-images.githubusercontent.com/112135658/216777053-5b706596-797d-44e6-8d15-f1cba6519286.jpg)
+     ![Neurons_layers_activation functions selected Image 6](https://user-images.githubusercontent.com/112135658/216777083-29780246-7af3-430d-8187-a39cf990b633.jpg)
 
 #### Increasing Model Performance
 
