@@ -31,7 +31,14 @@ IS_SUCCESSFUL—Was the money used effectively
 
 ![Data Preprocessing Removed Targets and Features Image2](https://user-images.githubusercontent.com/112135658/216776438-a5dbcd2e-6381-4b3f-b9c1-54128e6c2ab8.jpg)
 
+#### ![Data Preprocessing Visualization Image 3](https://user-images.githubusercontent.com/112135658/216776940-329612da-6674-476e-9786-25c2a94ec156.jpg)
+      
+     ![Data Preprocessing Visualization Image 3](https://user-images.githubusercontent.com/112135658/216776958-15399f23-8de9-46c2-9f5a-be4334b18033.jpg)
+     ![Data Preprocessing Image 5](https://user-images.githubusercontent.com/112135658/216776981-29de4451-9a7f-4c7a-b663-bca360583f36.jpg)
+      
 
 #### Increasing Model Performance
 
 ![Data Preprocessing Increasing Model Performance Image 7](https://user-images.githubusercontent.com/112135658/216776531-560298a7-955f-4151-b836-69aba6642e7e.jpg)
+
+
