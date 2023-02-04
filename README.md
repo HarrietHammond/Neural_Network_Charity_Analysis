@@ -23,4 +23,6 @@ IS_SUCCESSFUL—Was the money used effectively
 
 #### Data Processing
 
+#### Target Variables and Features
 
+![Data Preprocessing Target Image1](https://user-images.githubusercontent.com/112135658/216776356-c4f48143-d911-4e48-ab56-3b82f14198d5.jpg)
