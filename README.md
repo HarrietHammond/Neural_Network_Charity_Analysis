@@ -46,4 +46,12 @@ IS_SUCCESSFUL—Was the money used effectively
 
 ### Summary
 
+#### Approximately 64% accuracy was achieved using with several attempts to incraese the accuracy including:
+#### Increasing the number of hidden nodes in layer 1 (3 X number of input features)
+#### Increasing the number of hidden layers to include a 3rd
+#### Changing the activation functions: tried linear, tanh, sigmoid for a combination of hidden layers and output layer
+
+
+
+
 
